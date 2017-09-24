@@ -1,4 +1,5 @@
 @file:Suppress("OVERRIDE_BY_INLINE")
+
 package just4fun.kt.core.utils
 
 
