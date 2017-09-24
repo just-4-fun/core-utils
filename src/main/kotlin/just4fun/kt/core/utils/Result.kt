@@ -1,5 +1,5 @@
 @file:Suppress("OVERRIDE_BY_INLINE")
-package just4fun.kotlin.core.utils
+package just4fun.kt.core.utils
 
 
 /* Utils */
